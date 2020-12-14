@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Drink app</string>
+
+    <string name="toolbar_search">Search</string>
+    <string name="toolbar_favorite">Favorite</string>
+    <string name="empty_state_text">No cocktails found</string>
+
+</resources>
